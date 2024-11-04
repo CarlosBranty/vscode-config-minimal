@@ -4,7 +4,7 @@
     "workbench.activityBar.location": "hidden",
     "window.customTitleBarVisibility": "auto",
     "workbench.colorTheme": "Rosé Pine Moon",
-    "editor.fontFamily": "'Fira Code'",
+    "editor.fontFamily": "'ZedMono Nerd Font'",
     "editor.minimap.enabled": false,
     "workbench.layoutControl.enabled": false,
     "workbench.iconTheme": "catppuccin noctis icons",
